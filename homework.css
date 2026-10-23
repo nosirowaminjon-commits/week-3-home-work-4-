@@ -273,6 +273,7 @@ p {
     color: #00486D;
     padding-left: 20px;
 }
-input::placeholder{
+
+input::placeholder {
     color: #00486D;
 }
